@@ -1,0 +1,354 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-02 23:51:18
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-02 23:51:18 198.173.35.179 - 4.22.121.26 80 GET /index.htm - 200 logikabot++www.logika.net
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-03 11:30:20
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-03 11:30:20 216.0.86.74 - 4.22.121.26 80 GET /index.htm - 200 libwww-perl/5.36
+2000-06-03 17:00:04 210.170.189.167 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-03 17:00:16 210.170.189.167 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-05 01:49:23
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-05 01:49:23 195.188.192.23 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.08+[en]+(Win98;+I)
+2000-06-05 05:17:53 64.20.19.79 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-05 05:18:25 64.20.19.79 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-05 05:25:45 64.20.19.79 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-05 05:26:03 64.20.19.79 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-05 05:26:34 64.20.19.79 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-05 05:26:37 64.20.19.79 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-06 03:35:23
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-06 03:35:23 207.92.13.106 - 4.22.121.26 80 GET /robots.txt - 404 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-06-06 03:35:26 207.92.13.106 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-06-06 07:04:09 63.163.142.48 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/3.0+(compatible;+Opera/3.0;+Windows+95/NT4)
+2000-06-06 16:26:51 64.20.19.137 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-06 16:26:59 64.20.19.137 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-06 23:07:47 216.164.3.11 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.7+[en]+(Win98;+U)
+2000-06-06 23:07:49 216.164.3.11 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.7+[en]+(Win98;+U)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-13 05:17:30
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-13 05:17:30 216.67.73.205 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-13 05:17:36 216.67.73.205 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-13 05:58:25 216.67.73.244 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-13 05:58:28 216.67.73.244 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-13 16:46:21 216.67.73.168 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-13 16:46:36 216.67.73.168 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-13 16:47:29 216.67.73.168 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-13 16:47:30 216.67.73.168 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-14 15:33:57
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-14 15:33:57 216.67.73.237 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-16 05:08:25
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-16 05:08:25 216.67.73.112 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-17 03:26:09
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-17 03:26:09 216.67.73.205 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-17 03:26:13 216.67.73.205 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-17 13:39:36 64.20.19.131 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-17 13:51:11 64.20.19.131 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-17 14:22:47 64.20.19.131 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-17 14:39:07 64.20.19.131 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-19 16:03:13
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-19 16:03:13 210.225.247.144 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2000-06-19 16:03:25 210.225.247.144 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-20 01:29:01
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-20 01:29:01 134.180.230.19 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+4.01;+Windows+98)
+2000-06-20 01:29:05 134.180.230.19 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+4.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-22 09:29:00
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-22 09:29:00 202.212.64.200 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT)
+2000-06-22 09:29:03 202.212.64.200 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT)
+2000-06-22 16:19:25 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-22 22:34:38 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-22 23:14:24 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-22 23:46:47 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-23 00:20:07
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-23 00:20:07 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 00:52:49 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 01:25:59 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 01:57:57 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 02:31:08 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 03:05:51 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 03:37:33 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 04:11:26 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 06:43:45 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 07:34:26 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 08:07:35 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 08:43:40 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 09:16:12 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 09:53:37 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 10:25:33 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 11:05:02 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 11:39:17 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 12:17:48 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 12:49:37 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 13:26:43 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 14:00:48 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 15:03:20 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 15:45:07 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 16:25:28 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 17:42:31 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 18:15:26 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 18:50:29 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 19:27:12 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 20:05:52 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 20:40:42 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 21:15:53 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 21:48:38 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 22:21:55 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 22:57:06 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-23 23:30:15 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-24 00:03:06
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-24 00:03:06 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 00:34:11 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 01:09:54 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 01:41:26 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 02:13:47 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 02:45:38 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 03:21:33 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 04:08:22 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 04:40:44 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 05:11:41 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 05:42:50 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 06:18:32 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 06:50:25 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 07:20:56 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 07:51:33 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 08:39:39 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 09:10:19 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 09:43:22 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 10:14:18 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 10:46:00 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 11:16:50 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 11:48:50 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 12:21:29 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 12:54:33 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 13:27:44 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 13:59:10 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 14:31:15 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 15:16:05 216.67.73.84 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-24 15:16:26 216.67.73.84 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-24 15:17:00 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 16:05:24 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 16:07:33 64.20.19.132 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-24 16:07:42 64.20.19.132 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-24 16:38:47 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 17:12:20 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 17:46:06 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 18:19:18 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 18:52:15 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 19:24:59 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 19:56:23 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 20:27:12 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 21:00:45 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 21:34:23 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 22:08:58 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 22:44:04 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 23:20:42 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-24 23:56:26 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-25 00:30:28
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-25 00:30:28 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 01:05:56 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 01:38:28 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 02:13:33 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 02:48:10 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 03:22:36 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 03:56:09 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 04:29:16 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 05:01:51 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 05:33:07 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-25 14:28:47 216.67.73.191 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-25 14:28:53 216.67.73.191 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-25 18:41:01 216.67.73.146 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-25 18:41:15 216.67.73.146 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-25 18:42:44 216.67.73.146 - 4.22.121.26 80 GET /favicon.ico - 404 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-26 07:44:28
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-26 07:44:28 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 08:51:06 202.212.64.200 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT)
+2000-06-26 08:51:06 202.212.64.200 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT)
+2000-06-26 09:30:47 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 10:13:24 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 10:50:35 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 11:28:24 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 11:59:10 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 12:36:08 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 13:09:04 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 13:41:23 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 14:14:43 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 15:33:19 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 18:38:38 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 19:31:31 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 21:06:31 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 22:12:52 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-26 22:43:37 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-27 01:29:15
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-27 01:29:15 216.67.73.129 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-27 01:29:21 216.67.73.129 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-27 02:59:19 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 04:27:17 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 04:58:10 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 05:31:26 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 06:07:20 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 06:45:48 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 07:16:06 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 07:56:44 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 08:59:49 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 09:30:25 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 10:08:28 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 10:42:15 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 11:16:41 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 11:49:54 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 12:22:52 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 13:17:30 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 13:55:42 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 14:29:30 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 15:01:08 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 15:33:05 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 16:04:33 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 17:14:08 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 18:15:09 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 19:23:17 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 19:57:16 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 22:20:37 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 22:54:13 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-27 23:34:36 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-28 00:19:06
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-28 00:19:06 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 00:51:55 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 01:23:42 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 01:59:26 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 02:33:51 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 03:11:47 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 03:45:22 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 04:24:59 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 05:02:59 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 20:39:06 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 21:30:41 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 22:02:51 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 22:37:44 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 23:11:48 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-28 23:42:39 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-29 00:15:43
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-29 00:15:43 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 00:46:03 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 01:20:54 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 01:52:35 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 02:23:35 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 03:02:17 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 03:33:31 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 04:07:32 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 04:40:18 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 05:17:25 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 05:57:31 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 06:34:25 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 07:14:15 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 07:45:04 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 08:17:15 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 08:47:48 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 09:23:40 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 09:56:51 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 10:27:12 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 10:59:24 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 11:32:28 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 12:03:29 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 12:37:07 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 13:10:00 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 13:42:57 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 19:52:29 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 20:25:57 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 21:12:34 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 21:48:11 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 22:19:52 216.67.73.210 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-29 22:19:58 216.67.73.210 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-29 22:20:19 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 22:51:24 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 23:22:42 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-29 23:54:48 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-06-30 00:27:18
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-06-30 00:27:18 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 00:57:54 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 01:30:40 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 02:05:27 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 04:01:14 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 04:32:43 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 05:16:05 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 06:04:56 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 06:36:52 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 07:08:53 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 07:40:39 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 08:11:24 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 08:43:18 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 09:14:44 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 09:45:45 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 10:16:41 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 10:47:05 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 11:17:10 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 11:50:17 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 12:20:21 64.20.19.225 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-30 12:20:26 64.20.19.225 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-30 12:22:04 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 12:29:17 64.20.19.225 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-30 12:29:17 64.20.19.225 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-30 12:54:46 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 13:25:56 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 13:56:56 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 14:55:34 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 17:48:03 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 19:11:44 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 19:44:17 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 20:28:14 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 21:00:12 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 21:32:13 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 22:03:40 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 22:35:50 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 23:06:03 216.68.28.190 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-06-30 23:09:58 64.20.19.173 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)
+2000-06-30 23:10:07 64.20.19.173 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+98)

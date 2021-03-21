@@ -1,0 +1,370 @@
+<html>
+
+<head>
+<title>Search osakan.com</title>
+<meta name="copyright" content="©2000 osakan.com. All rights reserved. ">
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="Author" content="William G. Perrin III">
+<link rel="stylesheet" type="text/css" href="http://osakan.com/osakanstyle.css">
+<link rel="stylesheet" type="text/css" href="http://osakan.com/osakan-nav.css" disabled>
+<link rel="stylesheet" type="text/css" href="http://osakan.com/ie3dummy.css">
+<base href="http://osakan.com/"> 
+</head>
+
+<body>
+<!-- begin body table -->
+<table border="0" cellspacing="0" cellpadding="0">
+
+<!-- begin top banner row -->
+  <tr>
+    <td class="topleft" height="70" width="5" align="right" bgcolor="#666666">&nbsp;</td>
+    <td height="70" width="40" class="top" bgcolor="#666666">&nbsp;</td>
+    <td height="70" class="top" bgcolor="#666666">
+      <p align="center"><img border="0" src="images/logo00.jpg" alt="osakan.com" align="center" width="364" height="52"></p>
+    </td>
+    <td height="70" class="top" bgcolor="#666666">&nbsp;</td>
+    
+    <!-- begin search form -->
+    <td height="70" width="164" valign="bottom" class="topright" bgcolor="#666666">
+      <form method="get" action="http://search.atomz.com/search/">
+        <small>
+        <p align="left" style="font-size: 8pt; color: #CCCCCC; font-family: x, tahoma, 'arial narrow', arial, helvetica, sans-serif, x" class="searchbox"><input size="10" name="sp-q"><input type="hidden" name="sp-a" value="000a1ecd-sp00000000">
+        <input type="submit" value="go" style="background: #00CC66 none; color : #000000; font-weight: bold; font-family: tahoma, 'arial narrow', arial, helvetica, sans-serif; font-size: 7pt"><br>
+        Search</p>
+        </small>
+      </form>
+    </td>
+    <!-- end search form -->
+  </tr>
+<!-- end top banner row -->  
+
+<!-- begin 2nd row -->
+  <tr>
+    <td width="5" valign="top" align="right"  height="30">&nbsp;</td>
+    <td width="40" valign="top"  height="30">&nbsp;</td>
+    <td valign="top"  height="30">&nbsp;</td>
+    <td valign="top" class="topcurve1" height="30"><img border="0" src="images/spacer.gif" width="25" height="3"></td>
+    <td width="164" valign="top" class="right" height="30" bgcolor="#666666">&nbsp;</td>
+  </tr>
+<!-- end 2nd row -->  
+  <tr>
+    <td width="5" valign="top" align="right" >&nbsp;</td>
+    <td width="40" valign="top" >&nbsp;</td>
+    
+<!-- begin main body cell -->
+    <td valign="top" ><span>
+    
+        
+<!-- Atomz.com Search results section.-->
+
+<!-- Show heading and Atomz.com logo graphic. -->
+<SEARCH-IF-RESULTS>
+<b>SEARCH RESULTS <SEARCH-LOWER> - <SEARCH-UPPER></b>
+of <SEARCH-TOTAL> total results for <b><SEARCH-QUERY></b><br>
+</SEARCH-IF-RESULTS>
+<SEARCH-IF-NOT-RESULTS>
+<b>SEARCH RESULTS</b> for <b><SEARCH-QUERY></b><br>
+</SEARCH-IF-NOT-RESULTS>
+<SEARCH-LOGO>
+<h2>&nbsp;Search Results - osakan.com&nbsp;</h2>
+<!-- Display Results. -->
+<SEARCH-RESULTS LENGTH=160>
+<p><b><SEARCH-LINK><SEARCH-TITLE LENGTH=160></SEARCH-LINK></b><br>
+<SEARCH-IF-SHOW-SUMMARIES>
+<SEARCH-IF-CONTEXT LENGTH=240><SEARCH-CONTEXT><br></SEARCH-IF-CONTEXT>
+<font size="-1"><SEARCH-URL LENGTH=60></font><br>
+</SEARCH-IF-SHOW-SUMMARIES>
+</SEARCH-RESULTS>
+
+<!-- If no results, show a message. -->
+<SEARCH-IF-NOT-RESULTS><p>
+Sorry, no matches were found containing <b><SEARCH-QUERY>.</b>
+</SEARCH-IF-NOT-RESULTS>
+<!-- Show By Score, By Date links, Show/Hide Summaries links. -->
+<SEARCH-IF-RESULTS><p>
+<SEARCH-IF-SORT-BY-DATE>
+<b><SEARCH-SORT-BY-SCORE COUNT=10>Sort By Score</SEARCH-SORT-BY-SCORE></b>
+</SEARCH-IF-SORT-BY-DATE>
+<SEARCH-IF-SORT-BY-SCORE>
+<b><SEARCH-SORT-BY-DATE COUNT=10>Sort By Date</SEARCH-SORT-BY-DATE></b>
+</SEARCH-IF-SORT-BY-SCORE>
+ | <b>
+<SEARCH-IF-SHOW-SUMMARIES>
+<SEARCH-HIDE-SUMMARIES COUNT=20>Hide Summaries</SEARCH-HIDE-SUMMARIES>
+</SEARCH-IF-SHOW-SUMMARIES>   
+<SEARCH-IF-HIDE-SUMMARIES>
+<SEARCH-SHOW-SUMMARIES COUNT=10>Show Summaries</SEARCH-SHOW-SUMMARIES>
+</SEARCH-IF-HIDE-SUMMARIES>   
+</b><br>
+</SEARCH-IF-RESULTS>
+
+<!-- Display Prev & Next links. -->
+<SEARCH-IF-RESULTS>
+<SEARCH-IF-PREV-COUNT>
+<b><SEARCH-PREV>Prev <SEARCH-PREV-COUNT></SEARCH-PREV></b>
+<SEARCH-IF-NEXT-COUNT> | </SEARCH-IF-NEXT-COUNT>
+</SEARCH-IF-PREV-COUNT> 
+<SEARCH-IF-NEXT-COUNT>
+<b><SEARCH-NEXT>Next <SEARCH-NEXT-COUNT></SEARCH-NEXT></b><br>
+</SEARCH-IF-NEXT-COUNT><p>
+</SEARCH-IF-RESULTS>
+
+<!-- Put up the next form.  -->
+<form method="get" action="http://search.atomz.com/search/">
+<SEARCH-IF-NOT-ADVANCED>
+<SEARCH-INPUT-ACCOUNT>
+<SEARCH-INPUT-GALLERY>
+<SEARCH-INPUT-QUERY SIZE=25>
+<input type=submit value="New Search">
+<SEARCH-IF-INPUT-COLLECTIONS>
+<br><SEARCH-INPUT-COLLECTIONS>
+</SEARCH-IF-INPUT-COLLECTIONS>
+</SEARCH-IF-NOT-ADVANCED>
+<SEARCH-IF-ADVANCED>
+<table cellspacing=0 cellpadding=0 border=0>
+<tr><td colspan=4>
+<b>Search For:</b><br>
+<SEARCH-INPUT-QUERY SIZE=35>
+
+<!-- The "Search" button -->
+<input type=submit value="New Search">
+<SEARCH-INPUT-ACCOUNT>
+<SEARCH-INPUT-GALLERY>
+</td></tr>
+<SEARCH-IF-INPUT-COLLECTIONS>
+<!-- Collections -->
+<tr><td>
+<b>In:&nbsp;</b>
+</td><td colspan=4>
+<SEARCH-INPUT-COLLECTIONS>
+</td></tr>
+</SEARCH-IF-INPUT-COLLECTIONS>
+<input type=hidden name="sp-advanced" value=1>
+
+<!-- Allow "any," "all," or "phrase" -->
+<tr><td valign=top>
+<b>Match:&nbsp;</b>
+</td><td colspan=4>
+<SEARCH-INPUT type=radio name="sp-p" value="any">Any&nbsp;word
+<SEARCH-INPUT type=radio name="sp-p" value="all">All&nbsp;words
+<SEARCH-INPUT type=radio name="sp-p" value="phrase">Exact&nbsp;phrase<br>
+<!-- Checkbox enables sound-alike matching -->
+<input type=hidden name="sp-w-control" value=1>
+<SEARCH-INPUT type=checkbox name="sp-w" value="alike">Sound-alike&nbsp;matching
+</td></tr>
+
+<!-- Date range section -->
+<tr>
+<td><b>Dated:</b></td>
+<td colspan=3>
+<SEARCH-INPUT type=radio name="sp-d" value="custom">
+<SEARCH-SELECT name="sp-date-range" size=1>
+<SEARCH-OPTION value=-1>Anytime</SEARCH-OPTION>
+<SEARCH-OPTION value=7>Within the last week</SEARCH-OPTION>
+<SEARCH-OPTION value=14>Within the last 2 weeks</SEARCH-OPTION>
+<SEARCH-OPTION value=30>Within the last 30 days</SEARCH-OPTION>
+<SEARCH-OPTION value=60>Within the last 60 days</SEARCH-OPTION>
+<SEARCH-OPTION value=90>Within the last 90 days</SEARCH-OPTION>
+<SEARCH-OPTION value=180>Within the last 180 days</SEARCH-OPTION>
+<SEARCH-OPTION value=365>Within the last year</SEARCH-OPTION>
+<SEARCH-OPTION value=730>Within the last two years</SEARCH-OPTION>
+</SEARCH-SELECT>
+</td></tr>
+<tr><td></td><td rowspan=2>
+<SEARCH-INPUT type=radio name="sp-d" value=specific></td>
+<td align=right>From:</td><td>
+<SEARCH-SELECT name="sp-start-month" size=1>
+<SEARCH-OPTION value=0></SEARCH-OPTION>
+<SEARCH-OPTION value=1>January</SEARCH-OPTION>
+<SEARCH-OPTION value=2>February</SEARCH-OPTION>
+<SEARCH-OPTION value=3>March</SEARCH-OPTION>
+<SEARCH-OPTION value=4>April</SEARCH-OPTION>
+<SEARCH-OPTION value=5>May</SEARCH-OPTION>
+<SEARCH-OPTION value=6>June</SEARCH-OPTION>
+<SEARCH-OPTION value=7>July</SEARCH-OPTION>
+<SEARCH-OPTION value=8>August</SEARCH-OPTION>
+<SEARCH-OPTION value=9>September</SEARCH-OPTION>
+<SEARCH-OPTION value=10>October</SEARCH-OPTION>
+<SEARCH-OPTION value=11>November</SEARCH-OPTION>
+<SEARCH-OPTION value=12>December</SEARCH-OPTION>
+</SEARCH-SELECT>
+<SEARCH-SELECT name="sp-start-day" size=1>
+<SEARCH-OPTION value=0></SEARCH-OPTION>
+<SEARCH-OPTION value=1>1</SEARCH-OPTION>
+<SEARCH-OPTION value=2>2</SEARCH-OPTION>
+<SEARCH-OPTION value=3>3</SEARCH-OPTION>
+<SEARCH-OPTION value=4>4</SEARCH-OPTION>
+<SEARCH-OPTION value=5>5</SEARCH-OPTION>
+<SEARCH-OPTION value=6>6</SEARCH-OPTION>
+<SEARCH-OPTION value=7>7</SEARCH-OPTION>
+<SEARCH-OPTION value=8>8</SEARCH-OPTION>
+<SEARCH-OPTION value=9>9</SEARCH-OPTION>
+<SEARCH-OPTION value=10>10</SEARCH-OPTION>
+<SEARCH-OPTION value=11>11</SEARCH-OPTION>
+<SEARCH-OPTION value=12>12</SEARCH-OPTION>
+<SEARCH-OPTION value=13>13</SEARCH-OPTION>
+<SEARCH-OPTION value=14>14</SEARCH-OPTION>
+<SEARCH-OPTION value=15>15</SEARCH-OPTION>
+<SEARCH-OPTION value=16>16</SEARCH-OPTION>
+<SEARCH-OPTION value=17>17</SEARCH-OPTION>
+<SEARCH-OPTION value=18>18</SEARCH-OPTION>
+<SEARCH-OPTION value=19>19</SEARCH-OPTION>
+<SEARCH-OPTION value=20>20</SEARCH-OPTION>
+<SEARCH-OPTION value=21>21</SEARCH-OPTION>
+<SEARCH-OPTION value=22>22</SEARCH-OPTION>
+<SEARCH-OPTION value=23>23</SEARCH-OPTION>
+<SEARCH-OPTION value=24>24</SEARCH-OPTION>
+<SEARCH-OPTION value=25>25</SEARCH-OPTION>
+<SEARCH-OPTION value=26>26</SEARCH-OPTION>
+<SEARCH-OPTION value=27>27</SEARCH-OPTION>
+<SEARCH-OPTION value=28>28</SEARCH-OPTION>
+<SEARCH-OPTION value=29>29</SEARCH-OPTION>
+<SEARCH-OPTION value=30>30</SEARCH-OPTION>
+<SEARCH-OPTION value=31>31</SEARCH-OPTION>
+</SEARCH-SELECT><!--comma-->,
+<SEARCH-INPUT size=4 name="sp-start-year">
+</td></tr>
+<tr><td></td>
+<td align=right>To:</td><td>
+<SEARCH-SELECT name="sp-end-month" size=1><SEARCH-OPTION value=0></SEARCH-OPTION><SEARCH-OPTION value=1>January</SEARCH-OPTION><SEARCH-OPTION value=2>February</SEARCH-OPTION><SEARCH-OPTION value=3>March</SEARCH-OPTION><SEARCH-OPTION value=4>April</SEARCH-OPTION><SEARCH-OPTION value=5>May</SEARCH-OPTION><SEARCH-OPTION value=6>June</SEARCH-OPTION><SEARCH-OPTION value=7>July</SEARCH-OPTION><SEARCH-OPTION value=8>August</SEARCH-OPTION><SEARCH-OPTION value=9>September</SEARCH-OPTION><SEARCH-OPTION value=10>October</SEARCH-OPTION><SEARCH-OPTION value=11>November</SEARCH-OPTION><SEARCH-OPTION value=12>December</SEARCH-OPTION>
+</SEARCH-SELECT>
+<SEARCH-SELECT name="sp-end-day" size=1>
+<SEARCH-OPTION value=0></SEARCH-OPTION>
+<SEARCH-OPTION value=1>1</SEARCH-OPTION>
+<SEARCH-OPTION value=2>2</SEARCH-OPTION>
+<SEARCH-OPTION value=3>3</SEARCH-OPTION>
+<SEARCH-OPTION value=4>4</SEARCH-OPTION>
+<SEARCH-OPTION value=5>5</SEARCH-OPTION>
+<SEARCH-OPTION value=6>6</SEARCH-OPTION>
+<SEARCH-OPTION value=7>7</SEARCH-OPTION>
+<SEARCH-OPTION value=8>8</SEARCH-OPTION>
+<SEARCH-OPTION value=9>9</SEARCH-OPTION>
+<SEARCH-OPTION value=10>10</SEARCH-OPTION>
+<SEARCH-OPTION value=11>11</SEARCH-OPTION>
+<SEARCH-OPTION value=12>12</SEARCH-OPTION>
+<SEARCH-OPTION value=13>13</SEARCH-OPTION>
+<SEARCH-OPTION value=14>14</SEARCH-OPTION>
+<SEARCH-OPTION value=15>15</SEARCH-OPTION>
+<SEARCH-OPTION value=16>16</SEARCH-OPTION>
+<SEARCH-OPTION value=17>17</SEARCH-OPTION>
+<SEARCH-OPTION value=18>18</SEARCH-OPTION>
+<SEARCH-OPTION value=19>19</SEARCH-OPTION>
+<SEARCH-OPTION value=20>20</SEARCH-OPTION>
+<SEARCH-OPTION value=21>21</SEARCH-OPTION>
+<SEARCH-OPTION value=22>22</SEARCH-OPTION>
+<SEARCH-OPTION value=23>23</SEARCH-OPTION>
+<SEARCH-OPTION value=24>24</SEARCH-OPTION>
+<SEARCH-OPTION value=25>25</SEARCH-OPTION>
+<SEARCH-OPTION value=26>26</SEARCH-OPTION>
+<SEARCH-OPTION value=27>27</SEARCH-OPTION>
+<SEARCH-OPTION value=28>28</SEARCH-OPTION>
+<SEARCH-OPTION value=29>29</SEARCH-OPTION>
+<SEARCH-OPTION value=30>30</SEARCH-OPTION>
+<SEARCH-OPTION value=31>31</SEARCH-OPTION>
+</SEARCH-SELECT><!--comma-->,
+<SEARCH-INPUT size=4 name="sp-end-year">
+</td></tr>
+<!-- List box selects the search field -->
+<tr><td valign=top>
+<b>Within:&nbsp;</b>
+</td><td colspan=4><SEARCH-SELECT name="sp-x" size=1>
+<SEARCH-OPTION value="any">Anywhere</SEARCH-OPTION>
+<SEARCH-OPTION value="title">Title</SEARCH-OPTION>
+<SEARCH-OPTION value="desc">Description</SEARCH-OPTION>
+<SEARCH-OPTION value="keys">Keywords</SEARCH-OPTION>
+<SEARCH-OPTION value="body">Body</SEARCH-OPTION>
+<SEARCH-OPTION value="alt">Alternate text</SEARCH-OPTION>
+<SEARCH-OPTION value="url">URL</SEARCH-OPTION>
+</SEARCH-SELECT></td></tr>
+<!-- List box selects number of results to show per page -->
+<tr><td valign=top>
+<b>Show:</b>
+</td><td colspan=4><SEARCH-SELECT name="sp-c" size=1>
+<SEARCH-OPTION value=5>5</SEARCH-OPTION>
+<SEARCH-OPTION value=10>10</SEARCH-OPTION>
+<SEARCH-OPTION value=25>25</SEARCH-OPTION>
+<SEARCH-OPTION value=50>50</SEARCH-OPTION>
+<SEARCH-OPTION value=100>100</SEARCH-OPTION>
+</SEARCH-SELECT>&nbsp;results&nbsp;
+<!-- Show or hide summaries in search results -->
+<SEARCH-SELECT name="sp-m" size=1>
+<SEARCH-OPTION value=1>with</SEARCH-OPTION>
+<SEARCH-OPTION value=0>without</SEARCH-OPTION>
+</SEARCH-SELECT>&nbsp;summaries<br></td></tr>
+<!-- Sort results by score or by date -->
+<tr><td valign=top>
+<b>Sort&nbsp;by:&nbsp;</b>
+</td><td colspan=4><SEARCH-SELECT name="sp-s" size=1>
+<SEARCH-OPTION value=0>score</SEARCH-OPTION>
+<SEARCH-OPTION value=1>date</SEARCH-OPTION>
+</SEARCH-SELECT></td></tr>
+</table>
+</SEARCH-IF-ADVANCED>
+</form>
+      </span></td>
+<!-- end main body cell -->
+
+    <td valign="top" >&nbsp;</td>
+    
+<!-- begin right navigation cell -->
+    <td width="164" valign="top" class="right" bgcolor="#666666">
+    
+    <div align=center>
+      <a class=RightText href="http://www.digitalwindmill.com/direct/default.asp?host=http://osakan.com/directory.html&t=directory&d=/Regional/Asia/Japan/Prefectures/Osaka/"> Directory </a><br>
+      <a class=RightText href="news.html"> News </a><br>
+      <a class="RightText" href="http://community.osakan.com"> Forum </a><br>
+      <a class="RightText" href="http://community.osakan.com"> Classifieds </a><br>
+      <a class="RightText" href="http://mail.osakan.com"> E-mail </a><br>
+      <a class=RightText href="imode.html"> i-mode info </a><br>
+      <a class="RightText" href="about.html"> About us </a><br>
+
+        
+        <table border="0" width="80%" bgcolor="#666666">
+          <tr>
+            <td bgcolor="#666666"><span class="small">can't find what you're
+              looking for?</span>     
+    </td>
+
+
+          </tr>
+        </table>
+    <p><br>
+      </p>        
+    </div>
+
+<!-- end right navigation cell -->      </td>
+  </tr>
+  <tr>
+    <td width="5" height="25" valign="top" align="right" >&nbsp;</td>
+    <td width="40" height="25" valign="top" >&nbsp;</td>
+    <td height="25" valign="top" >&nbsp;</td>
+    <td height="25" valign="top" class="bottomcurve">&nbsp;</td>
+    <td width="164" height="25" valign="top" class="right" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="5" height="33" valign="top" align="right" class="bottomleft" bgcolor="#666666">&nbsp;</td>
+    <td width="40" height="33" valign="top" class="bottom" bgcolor="#666666">&nbsp;</td>
+    
+<!-- begin bottom navigation cell -->
+    <td height="33" valign="top" class="bottom" bgcolor="#666666"> 
+    <!--webbot bot="Include" U-Include="_private/bottom_navigation_links_.htm"
+    TAG="BODY" startspan --><strong>[_private/bottom_navigation_links_.htm]</strong><!--webbot bot="Include" endspan i-checksum="43474" -->
+
+    </td>
+<!-- end bottom navigation cell -->
+    
+    <td height="33" valign="top" class="bottom2" bgcolor="#666666">&nbsp;</td>
+    <td width="164" height="33" valign="top" class="bottomright" bgcolor="#666666">&nbsp;</td>
+  </tr>
+</table>
+<!-- end body table -->
+
+<!-- begin page footer -->
+<!--webbot bot="Include" U-Include="_private/footer.htm" TAG="BODY" startspan --><strong>[_private/footer.htm]</strong><!--webbot bot="Include" endspan i-checksum="40168" -->
+
+<!-- end page footer -->
+
+</body>
+
+</html>

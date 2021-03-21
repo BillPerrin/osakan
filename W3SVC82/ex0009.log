@@ -1,0 +1,224 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-05 12:39:29
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-05 12:39:29 210.153.84.70 - 4.22.121.26 80 GET /i/ - 302 DoCoMo/1.0/P502i
+2000-09-05 12:39:32 210.153.84.69 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:39:36 210.153.84.11 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-05 12:39:58 210.153.84.73 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:40:05 210.153.84.14 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-05 12:40:08 210.153.84.76 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:40:13 210.153.84.70 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-05 12:40:23 210.153.84.69 - 4.22.121.26 80 GET /i/bar/umeda.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:40:28 210.153.84.76 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-05 12:41:01 210.153.84.69 - 4.22.121.26 80 GET /i/bar/canopy.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:42:06 210.153.84.76 - 4.22.121.26 80 GET /i/bar/barisntit.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:42:35 210.153.84.76 - 4.22.121.26 80 GET /i/bar/pignorth.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:43:36 210.153.84.76 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:43:42 210.153.84.73 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-05 12:43:44 210.153.84.10 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/P502i
+2000-09-05 12:43:50 210.153.84.11 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-05 13:55:19 210.153.84.70 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-05 13:55:24 210.153.84.69 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-05 13:55:34 210.153.84.69 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/N502i
+2000-09-05 13:55:39 210.153.84.71 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-05 13:55:50 210.153.84.71 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/N502i
+2000-09-05 13:55:58 210.153.84.10 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-05 13:56:04 210.153.84.69 - 4.22.121.26 80 GET /i/bar/tennoji.html - 200 DoCoMo/1.0/N502i
+2000-09-05 13:56:09 210.153.84.76 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-05 13:56:29 210.153.84.69 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-05 13:56:35 210.153.84.69 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-05 20:19:47 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-06 08:56:51
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-06 08:56:51 210.153.84.76 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-06 08:56:56 210.153.84.76 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-06 08:57:12 210.153.84.11 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/N502i
+2000-09-06 08:57:17 210.153.84.14 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-06 08:57:26 210.153.84.69 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/N502i
+2000-09-06 08:57:32 210.153.84.14 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-06 08:57:41 210.153.84.69 - 4.22.121.26 80 GET /i/bar/kyobashi.html - 200 DoCoMo/1.0/N502i
+2000-09-06 08:57:45 210.153.84.76 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-06 08:57:50 210.153.84.70 - 4.22.121.26 80 GET /i/bar/tramps.html - 200 DoCoMo/1.0/N502i
+2000-09-06 08:58:20 210.153.84.70 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-06 08:58:24 210.153.84.10 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-06 10:42:15 129.142.227.118 - 4.22.121.26 80 GET /index.htm - 200 UtilMind+HTTPGet
+2000-09-06 10:42:15 129.142.227.118 - 4.22.121.26 80 GET /i/index.html - 200 UtilMind+HTTPGet
+2000-09-06 10:42:17 129.142.227.118 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 UtilMind+HTTPGet
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-07 09:32:55
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-07 09:32:55 208.51.0.79 - 4.22.121.26 80 GET /robots.txt - 404 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:55 208.51.0.79 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:55 208.51.0.79 - 4.22.121.26 80 GET /i/index.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:56 208.51.0.79 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:56 208.51.0.79 - 4.22.121.26 80 GET /i/bar/a2z.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:56 208.51.0.79 - 4.22.121.26 80 GET /i/bar/index.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:57 208.51.0.79 - 4.22.121.26 80 GET /i/bar/amemura.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:57 208.51.0.79 - 4.22.121.26 80 GET /i/bar/balabushka.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:57 208.51.0.79 - 4.22.121.26 80 GET /i/bar/canopy.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:57 208.51.0.79 - 4.22.121.26 80 GET /i/bar/cellar.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:58 208.51.0.79 - 4.22.121.26 80 GET /i/bar/dubliners.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:58 208.51.0.79 - 4.22.121.26 80 GET /i/bar/explosion.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:58 208.51.0.79 - 4.22.121.26 80 GET /i/bar/freshflesh.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:59 208.51.0.79 - 4.22.121.26 80 GET /i/bar/greedy.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:59 208.51.0.79 - 4.22.121.26 80 GET /i/bar/hardrock.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:32:59 208.51.0.79 - 4.22.121.26 80 GET /i/bar/home.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:01 208.51.0.79 - 4.22.121.26 80 GET /i/bar/junktion.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:01 208.51.0.79 - 4.22.121.26 80 GET /i/bar/kyobashi.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:01 208.51.0.79 - 4.22.121.26 80 GET /i/bar/markscyber.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:01 208.51.0.79 - 4.22.121.26 80 GET /i/bar/murphys.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:02 208.51.0.79 - 4.22.121.26 80 GET /i/bar/namba.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:02 208.51.0.79 - 4.22.121.26 80 GET /i/bar/origin.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:02 208.51.0.79 - 4.22.121.26 80 GET /i/bar/pignorth.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:02 208.51.0.79 - 4.22.121.26 80 GET /i/bar/pigsouth.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:03 208.51.0.79 - 4.22.121.26 80 GET /i/bar/shinsaibashi.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 09:33:03 208.51.0.79 - 4.22.121.26 80 GET /i/bar/smiths.html - 200 Mozilla/2.0+(compatible;+T-H-U-N-D-E-R-S-T-O-N-E)
+2000-09-07 15:24:16 203.216.113.107 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+98)
+2000-09-07 15:24:54 203.216.113.107 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-08 02:29:14
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-08 02:29:14 202.212.64.200 - 4.22.121.26 80 GET /i/bar/hardrock.html - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0)
+2000-09-08 02:29:24 202.212.64.200 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0)
+2000-09-08 02:29:28 202.212.64.200 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0)
+2000-09-08 10:09:36 210.153.84.76 - 4.22.121.26 80 GET /i/ - 302 DoCoMo/1.0/P502i
+2000-09-08 10:09:38 210.153.84.10 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:09:43 210.153.84.76 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:09:57 210.153.84.69 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:10:05 210.153.84.70 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:10:28 210.153.84.70 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:10:33 210.153.84.73 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:10:48 210.153.84.14 - 4.22.121.26 80 GET /i/bar/umeda.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:10:55 210.153.84.71 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:10:58 210.153.84.11 - 4.22.121.26 80 GET /i/bar/canopy.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:11:16 210.153.84.10 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:11:21 210.153.84.11 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:12:55 210.153.84.10 - 4.22.121.26 80 GET /index.htm - 200 DoCoMo/1.0/P502i
+2000-09-08 10:13:44 210.153.84.76 - 4.22.121.26 80 GET /index.htm - 200 DoCoMo/1.0/P502i
+2000-09-08 10:14:28 210.153.84.76 - 4.22.121.26 80 GET /i/ - 302 DoCoMo/1.0/P502i
+2000-09-08 10:14:29 210.153.84.76 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:14:35 210.153.84.11 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:16:50 210.153.84.11 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:16:55 210.153.84.10 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:17:02 210.153.84.10 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:17:08 210.153.84.14 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:17:12 210.153.84.73 - 4.22.121.26 80 GET /i/bar/kyobashi.html - 200 DoCoMo/1.0/P502i
+2000-09-08 10:17:17 210.153.84.11 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/P502i
+2000-09-08 10:17:37 210.153.84.10 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-08 10:17:43 210.153.84.70 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-08 10:17:56 210.153.84.76 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/N502i
+2000-09-08 10:18:02 210.153.84.69 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-08 13:19:04 210.155.219.213 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2000-09-08 13:19:07 210.155.219.213 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-09 14:15:54
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-09 14:15:54 203.216.113.201 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+98)
+2000-09-09 14:15:54 203.216.113.201 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-14 04:39:28
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-14 04:39:28 210.153.84.14 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-14 04:39:37 210.153.84.14 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-14 04:40:11 210.153.84.71 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/N502i
+2000-09-14 04:40:17 210.153.84.76 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-15 19:01:04
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-15 19:01:04 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-16 04:13:44
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-16 04:13:44 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-09-16 08:53:11 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-17 02:40:42
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-17 02:40:42 203.216.113.134 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+98)
+2000-09-17 02:40:54 203.216.113.134 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+98)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-23 00:29:01
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-23 00:29:01 64.39.31.110 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.08+[en]+(Win98;+I)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-24 03:38:24
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-24 03:38:24 210.155.219.191 - 4.22.121.26 80 GET /index.htm - 304 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2000-09-24 03:38:24 210.155.219.191 - 4.22.121.26 80 GET /images/index.1.jpg - 304 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-25 08:20:19
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-25 08:20:19 198.80.192.158 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-09-25 08:20:21 198.80.192.158 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-09-25 08:22:26 198.80.192.139 - 4.22.121.26 80 GET /i/index.html - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-09-25 08:22:26 198.80.192.139 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-09-25 08:22:39 198.80.192.158 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-09-25 08:23:03 198.80.192.139 - 4.22.121.26 80 GET /i/bar/a2z.html - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+2000-09-25 08:28:28 198.80.192.158 - 4.22.121.26 80 GET /i/bar/tinshall.html - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-26 15:55:09
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-26 15:55:09 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-09-26 17:43:42 205.188.209.201 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+MSN+2.5;+AOL+5.0;+Windows+98;+DigExt)
+2000-09-26 17:43:46 205.188.208.235 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+MSN+2.5;+AOL+5.0;+Windows+98;+DigExt)
+2000-09-26 17:46:07 205.188.209.200 - 4.22.121.26 80 GET /i/index.html - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+MSN+2.5;+AOL+5.0;+Windows+98;+DigExt)
+2000-09-26 17:46:08 205.188.208.236 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 Mozilla/4.0+(compatible;+MSIE+5.0;+MSN+2.5;+AOL+5.0;+Windows+98;+DigExt)
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-27 02:57:02
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-27 02:57:02 165.76.229.69 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.7+(Macintosh;+I;+PPC)
+2000-09-27 02:57:14 165.76.229.69 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.7+(Macintosh;+I;+PPC)
+2000-09-27 03:49:59 202.212.64.200 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0)
+2000-09-27 03:50:56 202.212.64.200 - 4.22.121.26 80 GET /index.htm - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0)
+2000-09-27 03:50:58 202.212.64.200 - 4.22.121.26 80 GET /images/index.1.jpg - 200 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0)
+2000-09-27 10:52:51 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+2000-09-27 15:10:48 216.68.28.189 - 4.22.121.26 80 GET /index.htm - 200 Microsoft+URL+Control+-+6.00.8169
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-28 08:44:05
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-28 08:44:05 210.153.84.70 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-28 08:44:09 210.153.84.69 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-28 08:55:01 210.153.84.76 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-28 08:55:05 210.153.84.73 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2000-09-29 05:49:24
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status cs(User-Agent) 
+2000-09-29 05:49:24 210.153.84.14 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:49:29 210.153.84.71 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 05:49:31 210.153.84.76 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:49:37 210.153.84.71 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 05:49:38 210.153.84.70 - 4.22.121.26 80 GET /i/bar/a2z.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:49:47 210.153.84.71 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 05:49:52 210.153.84.76 - 4.22.121.26 80 GET /i/bar/tramps.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:51:33 210.153.84.14 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:51:37 210.153.84.71 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 05:51:40 210.153.84.10 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:51:46 210.153.84.73 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:51:51 210.153.84.10 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 05:51:57 210.153.84.71 - 4.22.121.26 80 GET /i/bar/umeda.html - 200 DoCoMo/1.0/N502i
+2000-09-29 05:52:02 210.153.84.14 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 13:11:49 210.153.84.71 - 4.22.121.26 80 GET /i/index.html - 200 DoCoMo/1.0/N502i
+2000-09-29 13:11:55 210.153.84.73 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 13:13:02 210.153.84.70 - 4.22.121.26 80 GET /i/bar_crawler.html - 200 DoCoMo/1.0/N502i
+2000-09-29 13:13:09 210.153.84.10 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 13:13:54 210.153.84.11 - 4.22.121.26 80 GET /i/bar/index.html - 200 DoCoMo/1.0/N502i
+2000-09-29 13:14:00 210.153.84.69 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
+2000-09-29 13:14:08 210.153.84.73 - 4.22.121.26 80 GET /i/bar/kyobashi.html - 200 DoCoMo/1.0/N502i
+2000-09-29 13:14:14 210.153.84.69 - 4.22.121.26 80 GET /i/images/osakan-com.gif - 200 DoCoMo/1.0/N502i
